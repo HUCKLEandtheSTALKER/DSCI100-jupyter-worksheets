@@ -1,2 +1,3 @@
-# DSCI100-jupyter-worksheets
-Jupyter lab stuff for DSCI100
+# DSCI100-project60
+group project for data science.
+By Paul, Daniel, Thomas, and Ruth
